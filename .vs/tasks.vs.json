@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-Hackathon",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-prueba",
+      "appliesTo": "prueba.cs",
+      "type": "launch"
+    }
+  ]
+}
