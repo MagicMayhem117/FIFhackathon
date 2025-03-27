@@ -1,0 +1,26 @@
+{
+    "sensor": "movimiento-001",
+    "datos": [
+        {
+            "timestamp": "2023-05-15T08:00:00Z",
+            "movimiento": true,
+            "intensidad": 75,
+            "temperatura": "24.56",
+            "bateria": 92
+        },
+        {
+            "timestamp": "2023-05-15T08:05:00Z",
+            "movimiento": false,
+            "intensidad": 12,
+            "temperatura": "23.89",
+            "bateria": 91
+        },
+        {
+            "timestamp": "2023-05-15T08:10:00Z",
+            "movimiento": true,
+            "intensidad": 88,
+            "temperatura": "25.12",
+            "bateria": 90
+        }
+    ]
+}
