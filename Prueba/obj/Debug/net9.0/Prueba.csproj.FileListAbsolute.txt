@@ -1,0 +1,15 @@
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\bin\Debug\net9.0\Prueba.exe
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\bin\Debug\net9.0\Prueba.deps.json
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\bin\Debug\net9.0\Prueba.runtimeconfig.json
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\bin\Debug\net9.0\Prueba.dll
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\bin\Debug\net9.0\Prueba.pdb
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\obj\Debug\net9.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\obj\Debug\net9.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\obj\Debug\net9.0\Prueba.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\obj\Debug\net9.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\obj\Debug\net9.0\Prueba.sourcelink.json
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\obj\Debug\net9.0\Prueba.dll
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\obj\Debug\net9.0\refint\Prueba.dll
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\obj\Debug\net9.0\Prueba.pdb
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\obj\Debug\net9.0\Prueba.genruntimeconfig.cache
+C:\Users\mateo\OneDrive\Documents\hackathon2025\FIFhackathon\Prueba\obj\Debug\net9.0\ref\Prueba.dll
